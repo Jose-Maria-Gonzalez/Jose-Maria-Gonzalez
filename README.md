@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Gonzalez</h1>
-<h3 align="center">A passionate programming student from Uruguay.</h3>
+<h3 align="center">Programmer Analyst Student at CEI (CLAEH).</h3>
 
 - 🌱 I’m currently learning **C# and MySQL**
 
